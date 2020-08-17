@@ -1,3 +1,3 @@
 # Kata.GameOfLife
 
-https://codingdojo.org/kata/GameOfLife/
+https://codingdojo.org/kata/GameOfLife/ 
